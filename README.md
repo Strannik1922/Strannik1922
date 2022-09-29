@@ -11,7 +11,7 @@ Junior Python Developer | Python, Django, Docker
       <a href="https://t.me/salym_petroleum">
         <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram Badge"/>
       </a>
-      <a href="[your-twitter-URL](https://career.habr.com/strannik1922)">
+      <a href="https://career.habr.com/strannik1922">
         <img src="https://img.shields.io/badge/Хабр Карьера-grey?style=for-the-badge&logo=Хабр Карьера&logoColor=white" alt="Хабр Карьера Badge"/>
       </a>
     </div>
