@@ -14,7 +14,7 @@
     <h1>
       Hi there 👋 my name is Ivan
     </h1>
-    <h2>
+    <h5>
       Junior Python Developer | Python, Django, Docker
-    </h2>
+    </h5>
 </div>
