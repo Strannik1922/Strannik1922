@@ -13,6 +13,8 @@
     </div>
     <h1>
       Hi there 👋 my name is Ivan
-      Junior Python Developer | Python, Django, Docker
     </h1>
+    <h2>
+      Junior Python Developer | Python, Django, Docker
+    </h2>
 </div>
