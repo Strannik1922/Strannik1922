@@ -6,4 +6,7 @@ Junior Python Developer | Python, Django, Docker
 </div>
 
 <div id="badges">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <a href="https://ufa.hh.ru/applicant/resumes/view?resume=3842e1b9ff0b23adf20039ed1f54774154374c">
+    <img src="https://img.shields.io/badge/HeadHunter-red?style=for-the-badge&logo=HeadHunter&logoColor=white" alt="HeadHunter Badge"/>
+  </a>
+  
