@@ -11,6 +11,6 @@
         <img src="https://img.shields.io/badge/Хабр Карьера-grey?style=for-the-badge&logo=Хабр Карьера&logoColor=white" alt="Хабр Карьера Badge"/>
       </a>
     </div>
+  ### Hi there 👋 my name is Ivan
+  Junior Python Developer | Python, Django, Docker
 </div>
-### Hi there 👋 my name is Ivan
-Junior Python Developer | Python, Django, Docker
